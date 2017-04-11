@@ -6,7 +6,7 @@
 #include <stdio.h>
 #include <errno.h>
 
-char * firstpatch = "/home/me/myfolder/";
+char * firstpatch = "тут вписать папку где будут происходить эксперементы";
 
 void zSearchFiles(const char * path)
 {

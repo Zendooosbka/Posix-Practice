@@ -8,7 +8,7 @@
 #include <stdio.h>
 #include <errno.h>
 
-char * firstpatch = "/home/me/kek/";
+char * firstpatch = "тут вписать папку где будут происходить эксперементы";
 
 struct HandleList
 {
